@@ -8,7 +8,7 @@ const PORTFOLIO_DATA = [
     link: ""
   },
   {
-    name: "calendar",
+    name: "calendar v2",
     img: "https://n32e9.csb.app/src/calendar.png",
     link: "https://google.com"
   },
